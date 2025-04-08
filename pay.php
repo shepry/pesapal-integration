@@ -13,7 +13,7 @@ $consumer_key = "ies3S9sPr0wZdYuTYCl0X6xxyEuJaA+C";
 $consumer_secret = "r3JZuhNa1qPsv3AQUYRcMqvf3vk=";
 
 // Replace with your own domain
-$callback_url = "git@github.com:shepry/repository-name.git/pesapal-ipn.php
+$callback_url = "https://github.com/pesapal-intergration/pesapal-ipn.php
 ";
 
 // User details (normally from database)
